@@ -2,6 +2,12 @@
 
 https://live.treehacks.com/
 
+Esri's ArcGIS developer's website
+
+https://developers.arcgis.com/
+
+[JavaScript](https://developers.arcgis.com/javascript/), [Python](https://developers.arcgis.com/python/), [iOS](https://developers.arcgis.com/ios/), [Android](https://developers.arcgis.com/android/), [.NET/C#](https://developers.arcgis.com/net/), [Java](https://developers.arcgis.com/java/), [Qt](https://developers.arcgis.com/qt/)
+
 ## Awareness
 
 Make the process of sharing information more accurate, transparent, and accessible with technology
