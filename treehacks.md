@@ -18,9 +18,9 @@ http://storymaps.esri.com/stories/2015/atlas-for-a-changing-planet/
 
 ### Community Angel
 
-https://devpost.com/software/community-angel
-
 The CommUnity Angel simplifies the process of creating a social campaign for high-school and college orgs by providing all essential information and organizational tools in an easy-to-use mobile application.
+
+https://devpost.com/software/community-angel
 
 ## Health
 
@@ -28,9 +28,9 @@ Improve the physical and/or mental health of individuals and communities with te
 
 ### Farm2Table
 
-https://devpost.com/software/eat-local
-
 Farm2Table revolutionizes the way consumers see where their food comes from and helps farmers visualize where their food goes. Furthermore, Farm2Table fosters local economies and builds sustainable business models by showing people where they can eat and buy locally grown food.
+
+https://devpost.com/software/eat-local
 
 ## Safety
 
