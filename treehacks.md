@@ -6,6 +6,12 @@ https://live.treehacks.com/
 
 Make the process of sharing information more accurate, transparent, and accessible with technology
 
+### Cummulative Exposure to Climate Change
+
+Map visualizing the future exposure to climeate change
+
+https://maps.esri.com/MoraLab/CumulativeChange/
+
 ### Climate change story map
 
 Climate change is huge issue going around the world, that needs to be resolved as soon as possible, because if not done so quick enough then there will be no one whom we can save.
@@ -47,3 +53,21 @@ https://devpost.com/software/guardian-an598s
 We believe that open source is the future of software development, and we want to help you explore open source tech. Open source software is simply the idea that all your code is publicly available, and anyone can submit a request to change and improve the code (through what's called a pull request). This leads to better code: faster, safer, and more efficient.
 
 [https://github.com/Esri](https://github.com/Esri)
+
+## Hackathons
+
+### Weekend of Innovation 2018
+
+https://weekend-of-innovation-6712.devpost.com/submissions
+
+### Hack the Map 3
+
+https://hack-the-map-3.devpost.com/submissions
+
+### Hack the Map 2
+
+https://hack-the-map-2.devpost.com/submissions
+
+### Hack the Map 1
+
+https://hack-the-map.devpost.com/submissions
